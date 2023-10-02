@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PLOXVARIN
 - 👀 I’m interested in code, manage data
-- 🌱 I’m currently learning comsci
+- 🌱 I’m currently learning com-sci
 - 📫 How to reach me : ×
 
 <!---
