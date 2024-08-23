@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PLOXVARIN
 - 👀 I’m interested in code, manage data
 - 🌱 I’m currently learning com-sci
-- 📫 How to reach me : ×
+- 📫 How to reach me : ployvarin546@gmail.com
 
 <!---
 PLOXVARIN/PLOXVARIN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
